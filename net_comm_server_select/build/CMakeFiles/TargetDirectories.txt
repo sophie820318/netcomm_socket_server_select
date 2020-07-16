@@ -1,0 +1,3 @@
+/home/sunyingchun/share/net_comm_server_select/build/CMakeFiles/rebuild_cache.dir
+/home/sunyingchun/share/net_comm_server_select/build/CMakeFiles/edit_cache.dir
+/home/sunyingchun/share/net_comm_server_select/build/CMakeFiles/socksvrtest.dir

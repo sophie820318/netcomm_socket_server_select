@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/socksvrtest.dir/src/main.c.o CMakeFiles/socksvrtest.dir/src/tcp_server.c.o CMakeFiles/socksvrtest.dir/src/pthread_define.c.o  -o socksvrtest -lpthread 
